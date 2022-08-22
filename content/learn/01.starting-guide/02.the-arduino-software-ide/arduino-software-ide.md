@@ -27,10 +27,10 @@ The editor contains the four main areas:
 
 **1.** A **Toolbar with buttons** for common functions and a series of menus. The toolbar buttons allow you to verify and upload programs, create, open, and save sketches, and open the serial monitor.
    
-**2.** The **message area**, gives feedback while saving and exporting and also displays errors.
-   
-**3.** The **text editor** for writing your code.
-   
+**2.** The **text editor** for writing your code.
+
+**3.** The **message area**, gives feedback while saving and exporting and also displays errors.
+      
 **4.** The **text console** displays text output by the Arduino Software (IDE), including complete error messages and other information.
 
 The bottom right-hand corner of the window displays the configured board and serial port.
